@@ -1,0 +1,9 @@
+@font-face {
+  font-family: light;
+  src: url(../../light.ttf);
+}
+
+@font-face {
+  font-family: bold;
+  src: url(../../bold.ttf);
+}
